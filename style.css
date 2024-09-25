@@ -1,0 +1,36 @@
+
+body {
+    height: 100vh;
+    background-color:#fff;
+}
+
+header {
+    width: 100%;
+    height: 20vh;
+    background-color: aquamarine;
+}
+main{
+    width: 80%;
+    height: 50vh;
+    background-color: bisque;
+    float: left;
+}
+aside{
+    width: 20%;
+    height: 50vh;
+    background-color: burlywood;
+    float: right;
+    text-align: center;
+}
+section{
+    width:100%;
+    height: 20vh;
+    background-color:rgb(153, 238, 153);
+    float: left;
+}
+footer{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(173, 163, 218);
+    float: left;
+}
